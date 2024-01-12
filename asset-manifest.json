@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Oliko136/goit-react-hw-02-feedback/static/css/main.b87514ff.css",
-    "main.js": "/Oliko136/goit-react-hw-02-feedback/static/js/main.e2b7b630.js",
+    "main.css": "/Oliko136/goit-react-hw-02-feedback/static/css/main.8ba355c8.css",
+    "main.js": "/Oliko136/goit-react-hw-02-feedback/static/js/main.97d53d1e.js",
     "index.html": "/Oliko136/goit-react-hw-02-feedback/index.html",
-    "main.b87514ff.css.map": "/Oliko136/goit-react-hw-02-feedback/static/css/main.b87514ff.css.map",
-    "main.e2b7b630.js.map": "/Oliko136/goit-react-hw-02-feedback/static/js/main.e2b7b630.js.map"
+    "main.8ba355c8.css.map": "/Oliko136/goit-react-hw-02-feedback/static/css/main.8ba355c8.css.map",
+    "main.97d53d1e.js.map": "/Oliko136/goit-react-hw-02-feedback/static/js/main.97d53d1e.js.map"
   },
   "entrypoints": [
-    "static/css/main.b87514ff.css",
-    "static/js/main.e2b7b630.js"
+    "static/css/main.8ba355c8.css",
+    "static/js/main.97d53d1e.js"
   ]
 }
